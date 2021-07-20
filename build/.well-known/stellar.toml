@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GCN3RDOSYHN4BS3F5MJRKCJ5PF4QA42P2ERB6VF3WYAL7FDG64OYLHTJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="tezos"
+ORG_URL="https://www.tezos.org"
+ORG_DESCRIPTION="Tezos was first proposed in a whitepaper published in 2014."
+ORG_TWITTER="@tezos"
+ORG_LOGO="https://i.ibb.co/WzgP1PF/image.jpg"
+ORG_OFFICIAL_EMAIL="tezos@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="Tezos"
+issuer="GCN3RDOSYHN4BS3F5MJRKCJ5PF4QA42P2ERB6VF3WYAL7FDG64OYLHTJ"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="Tezos"
+desc="ezos is a decentralized, open-source energy efficient Proof of Stake blockchain network that can execute peer-to-peer transactions and serve as a platform for deploying smart contracts."
+conditions=""
+image="https://i.ibb.co/WzgP1PF/image.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#Tezos was issued using the open and inclusive Stellar blockchain network.
